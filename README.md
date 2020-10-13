@@ -3,7 +3,6 @@
 yotambaram@gmail.com | 425-628-9130 | Bellevue, WA | US Citizen
 
 [LinkedIn](https://www.linkedin.com/in/yotambaram/) |
-[GitHub](https://github.com/yotambaram) |
 [Portfolio](https://yotam.herokuapp.com/)
 
 # Summary
