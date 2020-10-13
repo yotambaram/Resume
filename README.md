@@ -8,11 +8,11 @@ yotambaram@gmail.com | 425-628-9130 | Bellevue, WA | US Citizen
 
 
 # Table of Contents
-#### [Summary](#Summary)    
+#### [Summary](# Summary)    
 #### [Technical Skills](#TechnicalSkills)    
 #### [Projects](#Projects)    
 #### [Work Experience](#WorkExperience)    
-#### [Education](#Education) 
+#### [Education](# Education) 
 
 # Summary
 Highly motivated Software Engineer. Positive attitude, creative thinker, passion to developing apps which serves everyday usability.Complex problem solver, approaching engineering challenges from different perspectives.
