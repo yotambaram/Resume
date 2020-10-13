@@ -76,9 +76,7 @@ Freelance | Bellevue, WA, USA | 06/2020-Today
 - QA by maintaining accuracy and sensibilities to the details of consumers.
 - Committed and dedicated to being connected to current affairs and news 24/7.
 - Managed a team of 15 people, defined work plans, collaborated &amp; communicated with external stakeholders, leveraged &amp; maximized limited resources.
-- Communicated with various external stakeholders and content providers (Journalistic sources,
-
-publishers, PR &amp; advertising agencies, brand marketers, agents, reporters etc.).
+- Communicated with various external stakeholders and content providers (Journalistic sources, publishers, PR &amp; advertising agencies, brand marketers, agents, reporters etc.).
 
 **Executive Producer and Content Editor** | 
 [Sports5 Channel](https://www.sport5.co.il/) | Tel Aviv, Israel | 12/2009-02/2014
