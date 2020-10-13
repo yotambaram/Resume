@@ -6,6 +6,14 @@ yotambaram@gmail.com | 425-628-9130 | Bellevue, WA | US Citizen
 [GitHub](https://github.com/yotambaram) |
 [Portfolio](https://yotam.herokuapp.com/)
 
+
+# Table of Contents
+#### [Summary](#Summary)    
+#### [Technical Skills](#TechnicalSkills)    
+#### [Projects](#Projects)    
+#### [Work Experience](#WorkExperience)    
+#### [Education](#Education) 
+
 # Summary
 Highly motivated Software Engineer. Positive attitude, creative thinker, passion to developing apps which serves everyday usability.Complex problem solver, approaching engineering challenges from different perspectives.
 
@@ -55,6 +63,13 @@ Find the movies, build lists and save the movies by the list&#39;s placements.
 ![](RackMultipart20200928-4-1odi0kx_html_7d7e44fa345f092f.gif)
 
 # Work Experience
+
+**Softwarer Engineer** | 
+[Freelance] | Bellevue, WA, USA | 06/2020-Today
+
+- Developing, debugging and deploying software applications.
+- Plan and implement model data structures for scalability.
+- Using modern frameworks and libraries development.
 
 **Television Playout Operator** | 
 [MX1 Satellite services](https://www.mx1.com/) | Bet Shemesh, Israel | 02/2018-02/2019
