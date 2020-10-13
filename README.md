@@ -55,7 +55,7 @@ Find the movies, build lists and save the movies by the list&#39;s placements.
 # Work Experience
 
 **Softwarer Engineer** | 
-[Freelance] | Bellevue, WA, USA | 06/2020-Today
+Freelance | Bellevue, WA, USA | 06/2020-Today
 
 - Developing, debugging and deploying software applications.
 - Plan and implement model data structures for scalability.
