@@ -1,6 +1,7 @@
 # Yotam Baram ![badge](https://img.shields.io/badge/Software-Developer-brightgreen)
 
 425-628-9130 | yotambaram@gmail.com | [LinkedIn](https://www.linkedin.com/in/yotambaram/) | [Portfolio](https://yotam.herokuapp.com/)
+
 Bellevue, WA | US Citizen
 
 # Summary
