@@ -91,7 +91,7 @@ Freelance | Bellevue, WA, USA | 06/2020-Today
 # Education
 
 University of Washington Certificate 2020: 
-[Full-Stack Web Development Program](https://drive.google.com/file/d/1eL6dm6ggWIfjATtoEY7YNOMpOYYB6Mne/view?usp=sharing)‎
+[Full-Stack Web Development Program](https://drive.google.com/file/d/1eL6dm6ggWIfjATtoEY7YNOMpOYYB6Mne/view?usp=sharing)
 
 Microsoft Certifications: 
 [Logic and Computational Critical Thinking](https://courses.edx.org/certificates/716f9f7c52e540acad0324c6e14ea0d1)|
