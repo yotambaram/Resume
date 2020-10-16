@@ -94,7 +94,7 @@ University of Washington Certificate 2020:
 [Full-Stack Web Development Program](https://drive.google.com/file/d/1eL6dm6ggWIfjATtoEY7YNOMpOYYB6Mne/view?usp=sharing)
 
 Microsoft Certifications: 
-[Logic and Computational Critical Thinking](https://courses.edx.org/certificates/716f9f7c52e540acad0324c6e14ea0d1)|
-[Designing a Technical Solution](https://courses.edx.org/certificates/162f62ba6e104d96bfc586086bb910d9)| 
-[Introduction to Python: Fundamentals](https://courses.edx.org/certificates/8fcbfee91a05483e9157f1c80115457c)|
+[Logic and Computational Critical Thinking](https://courses.edx.org/certificates/716f9f7c52e540acad0324c6e14ea0d1) | 
+[Designing a Technical Solution](https://courses.edx.org/certificates/162f62ba6e104d96bfc586086bb910d9) | 
+[Introduction to Python: Fundamentals](https://courses.edx.org/certificates/8fcbfee91a05483e9157f1c80115457c) | 
 [Introduction to Python](https://courses.edx.org/certificates/26aa668dea9c473e854e52cc05c181f5)
