@@ -5,9 +5,12 @@
 Bellevue, WA | US Citizen
 
 # Summary
-Highly motivated Software Engineer. Positive attitude, creative thinker, passion to developing apps which serves everyday usability.Complex problem solver, approaching engineering challenges from different perspectives.
+Highly motivated Software Engineer. Positive attitude, creative thinker, passion to developing apps which serves everyday usability.
+Complex problem solver, approaching engineering challenges from different perspectives.
 
-Software Development by using modern frameworks and creating intuitive user experience. mobile platforms first design &amp; development. Excellent collaboration and communication skills. Friendly, love to mentor and share knowledge.
+Software Development by using modern frameworks and creating intuitive user experience. 
+Mobile platforms first design &amp; development. Excellent collaboration and communication skills. 
+Friendly, love to mentor and share knowledge.
 
 ![](RackMultipart20200928-4-1odi0kx_html_7d7e44fa345f092f.gif)
 
