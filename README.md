@@ -16,41 +16,6 @@ Software Development by using modern frameworks and creating intuitive user expe
 
 ![](RackMultipart20200928-4-1odi0kx_html_7d7e44fa345f092f.gif)
 
-# Projects
-
-**Portfolio** 
-[GitHub](https://github.com/yotambaram/portfolio-react) |
-[My portfolio](https://yotam.herokuapp.com/)
-
-Showcase portfolio: information about me, my projects and my professional experience.
-
-- A React.js front end web, wireframes, design, develop, debug, and deploy from scratch.
-- Initially developed with HTML, CSS and Vanilla JavaScript. Up to date version is a post upgrade to React and Bootstrap design patterns frameworks to optimize performance of user experience.
-
-**Find Tutor** 
-[Frontend GitHub](https://github.com/yotambaram/go-tutor-front)|
-[Backend GitHub](https://github.com/yotambaram/go-tutor-back)|
-[goTutor web app](https://gotutor.herokuapp.com/)
-
-Social network web software that helps to find a tutor and become a tutor any time.
-
-- Teamwork of 4 developers in all phases of the development life cycle, focused on coding, testing, and debugging with depth and confidence.
-- Productive and efficient collaborative remotely using Zoom, Slack and GitHub version control to build product in 10 days.
-- Backend developer for this project. Responsible for server-side and databases.
-- Full Stack software development based on JavaScript uses frameworks and libraries React, Node.js, Sequelize, MySQL.
-
-**Flixlists**
-[GitHub](https://github.com/yotambaram/Flixlists)|
-[Flixlists web app](https://flixlists.herokuapp.com/)
-
-Find the movies, build lists and save the movies by the list&#39;s placements.
-
-- Collaborate with team of 4 developers to design, develop, debug, and deploy to cloud it in 5 days work.
-- Software development online by communicating remotely using Zoom and Slack.
-- Project Manager and Back-end developer for this project.
-- Web development applications used Sass SCSS, Handlebars, materialize, jQuery, REST APIs, Express, AJAX, JSON, node, Sequelize, MySQL.
-
-![](RackMultipart20200928-4-1odi0kx_html_7d7e44fa345f092f.gif)
 
 # Work Experience
 
@@ -85,6 +50,42 @@ Find the movies, build lists and save the movies by the list&#39;s placements.
 - Content management included researching, writing, editing, producing for television and web shows end-to-end by performing real-time decision making.
 - Provided learning services &amp; developed mentorship and practices programs for new employees.
 - Responsibility for a 30-person broadcast during real time events.
+
+![](RackMultipart20200928-4-1odi0kx_html_7d7e44fa345f092f.gif)
+
+# Projects
+
+**Portfolio** 
+[GitHub](https://github.com/yotambaram/portfolio-react) |
+[My portfolio](https://yotam.herokuapp.com/)
+
+Showcase portfolio: information about me, my projects and my professional experience.
+
+- A React.js front end web, wireframes, design, develop, debug, and deploy from scratch.
+- Initially developed with HTML, CSS and Vanilla JavaScript. Up to date version is a post upgrade to React and Bootstrap design patterns frameworks to optimize performance of user experience.
+
+**Find Tutor** 
+[Frontend GitHub](https://github.com/yotambaram/go-tutor-front)|
+[Backend GitHub](https://github.com/yotambaram/go-tutor-back)|
+[goTutor web app](https://gotutor.herokuapp.com/)
+
+Social network web software that helps to find a tutor and become a tutor any time.
+
+- Teamwork of 4 developers in all phases of the development life cycle, focused on coding, testing, and debugging with depth and confidence.
+- Productive and efficient collaborative remotely using Zoom, Slack and GitHub version control to build product in 10 days.
+- Backend developer for this project. Responsible for server-side and databases.
+- Full Stack software development based on JavaScript uses frameworks and libraries React, Node.js, Sequelize, MySQL.
+
+**Flixlists**
+[GitHub](https://github.com/yotambaram/Flixlists)|
+[Flixlists web app](https://flixlists.herokuapp.com/)
+
+Find the movies, build lists and save the movies by the list&#39;s placements.
+
+- Collaborate with team of 4 developers to design, develop, debug, and deploy to cloud it in 5 days work.
+- Software development online by communicating remotely using Zoom and Slack.
+- Project Manager and Back-end developer for this project.
+- Web development applications used Sass SCSS, Handlebars, materialize, jQuery, REST APIs, Express, AJAX, JSON, node, Sequelize, MySQL.
 
 ![](RackMultipart20200928-4-1odi0kx_html_7d7e44fa345f092f.gif)
 
