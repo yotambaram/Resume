@@ -15,7 +15,7 @@ Friendly, love to mentor and share knowledge.
 ![](RackMultipart20200928-4-1odi0kx_html_7d7e44fa345f092f.gif)
 
 # Technical Skills
- Full Stack Applications | Responsive Web Design | Data Structures &amp; algorithms | Object-Oriented programming | MVC | APIs | JavaScript (ES5, ES6) | React | TypeScript | Node.js | Express | MySQL | NoSQL | MongoDB | Unit Testing | Heroku | HTML | CSS | Adobe Premier Pro
+ Full Stack Applications | Responsive Web Design | Data Structures &amp; algorithms | Object-Oriented programming | MVC | APIs | Java | JavaScript | React | TypeScript | Node.js | Express | MySQL | NoSQL | MongoDB | Unit Testing | Heroku | HTML | CSS | Adobe Premier Pro
 
 ![](RackMultipart20200928-4-1odi0kx_html_7d7e44fa345f092f.gif)
 
