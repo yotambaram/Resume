@@ -54,12 +54,12 @@ Find the movies, build lists and save the movies by the list&#39;s placements.
 
 # Work Experience
 
-**Softwarer Engineer** | 
-Freelance | Bellevue, WA, USA | 06/2020-Today
-
-- Developing, debugging and deploying software applications.
-- Plan and implement model data structures for scalability.
-- Using modern frameworks and libraries development.
+**Softwarer Developer** | 
+[Algopix](https://www.algopix.com/) | Remote / Bellevue, WA | 01/2021- Today 
+- Building & developing integrations services that demonstrate the usage of Algopix APIs. 
+- Designed and implemented internal Data Analysis tool. Created data-cleaning algorithms and validations to ensure data quality and reliability.
+- Develop, debug and maintenance of software code. 
+- Maintains strong collaboration and partnership with engineering & product team.
 
 **Television Playout Operator** | 
 [MX1 Satellite services](https://www.mx1.com/) | Bet Shemesh, Israel | 02/2018-02/2019
